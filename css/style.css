@@ -1,0 +1,15 @@
+﻿body {
+	padding-top: 50px;
+	text-align: center;
+}
+button {
+	height: 40px;
+	width: 100px;
+}
+p {
+	padding-top: 30px;
+	font-weight: 700;
+	text-transform: uppercase; 
+	max-width: 500px;
+	margin: 0 auto;
+}
